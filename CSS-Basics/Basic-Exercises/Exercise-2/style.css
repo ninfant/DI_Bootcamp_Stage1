@@ -1,0 +1,18 @@
+.oddnumbers {
+  background-color: rgb(243, 170, 182);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cooler {
+  font-size: 24px;
+}
+.anotherID {
+  background-color: green;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#idblue {
+  color: blue;
+  font-size: 36px;
+}
