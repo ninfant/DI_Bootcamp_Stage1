@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+}
+.container {
+  margin: 20px 0px;
+  width: 100%;
+}
+.right_block,
+.left_block,
+.footer {
+  border: 3px solid black;
+  display: inline-block;
+  height: 100px;
+}
+.left_block {
+  width: 25%;
+  background: red;
+  margin-right: 3%;
+}
+.right_block {
+  width: 65%;
+  background: lightblue;
+}
+.footer {
+  width: 94.5%;
+  background: yellow;
+}
